@@ -7,19 +7,19 @@ Je suis Mathieu Roy, un étudiant à l'école 42 Québec passionné par le déve
 ## Compétences acquises à l'école 42
 Pendant mon cursus à l'école 42, j'ai eu l'occasion de travailler sur une variété de projets et d'apprendre plusieurs compétences essentielles pour le développement logiciel. Voici quelques-unes des compétences que j'ai acquises :
 
-# Programmation en langage C
+### Programmation en langage C
 L'école 42 met fortement l'accent sur la programmation en langage C. J'ai développé une solide compréhension des concepts fondamentaux du langage C, y compris la manipulation des pointeurs, la gestion dynamique de la mémoire et la résolution de problèmes complexes.
 
-# lgorithmie et structures de données
+### lgorithmie et structures de données
 J'ai appris à concevoir et à implémenter des algorithmes efficaces pour résoudre différents problèmes. J'ai étudié les structures de données courantes telles que les listes chaînées, les arbres binaires et les tables de hachage, et j'ai acquis une compréhension approfondie de leurs avantages et de leurs limitations.
 
-# Programmation système
+### Programmation système
 J'ai développé des compétences en programmation système, en apprenant à utiliser les appels système, les fichiers, les processus et les tubes (pipes) pour créer des programmes qui interagissent avec le système d'exploitation.
 
-# Développement web
+### Développement web
 J'ai également acquis des connaissances en développement web, en apprenant les langages HTML, CSS et JavaScript, ainsi que les frameworks et bibliothèques populaires tels que React et Node.js. J'ai travaillé sur des projets web dynamiques et interactifs.
 
-# Gestion de projets et travail d'équipe
+### Gestion de projets et travail d'équipe
 L'école 42 met l'accent sur la collaboration et la gestion de projets. J'ai appris à travailler efficacement en équipe, à utiliser des outils de contrôle de version comme Git, et à gérer des projets de bout en bout, en planifiant, en développant et en livrant des solutions logicielles.
 
 ## Dark Souls Archthrones
