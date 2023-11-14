@@ -30,3 +30,6 @@ Le mod Dark Souls Archthrones est une extension pour le jeu Dark Souls 3 qui app
 N'hésitez pas à me suivre sur mes réseaux sociaux pour rester informé des dernières mises à jour sur mes projets.
 
 Merci d'avoir visité mon profil GitHub. Si vous avez des questions ou des commentaires, n'hésitez pas à me contacter.
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathroy0310&label=Profile%20views&color=0e75b6&style=flat" alt="mathroy0310" /> </p>
