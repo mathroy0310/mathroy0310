@@ -21,9 +21,7 @@ Je suis Mathieu Roy, un étudiant à l'école 42 Québec passionné par le déve
 Le mod Dark Souls Archthrones est une extension pour le jeu Dark Souls 3 qui apporte de nouvelles fonctionnalités et améliorations à l'expérience de jeu. Ce mod offre aux joueurs la possibilité de découvrir de nouveaux environnements, de rencontrer des personnages supplémentaires, d'obtenir de nouvelles armes et armures, et bien plus encore. J'ai travaillé dur pour créer un contenu de qualité qui s'intègre harmonieusement à l'univers sombre et captivant de Dark Souls.
 - [Lien vers notre profil Twitter](https://twitter.com/Archthrones)
 
-## Ressources
 
-- [Lien vers mon site personnel](🚧 WORK ON PROGRESS 🚧)(https://example.com)
 - [Lien vers mon profil LinkedIn](www.linkedin.com/in/mathieu-roy-301989224)
 - [Lien vers mon profil Twitter](https://twitter.com/freemathieuroy)
 
