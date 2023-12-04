@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Je suis Mathieu Roy, un étudiant à l'école 42 Québec passionné par le développement de jeux vidéo. Je me spécialise dans la création de mods pour le célèbre jeu Dark Souls, et en particulier, je fais parti de l'équipe Dark Souls Archthrones.
+Je suis Mathieu Roy, un étudiant à l'école 42 Québec passionné par la programmation !
 
 ## Compétences acquises à l'école 42
 
