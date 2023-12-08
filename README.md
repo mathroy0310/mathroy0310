@@ -2,6 +2,8 @@
 
 ## À propos de moi
 
+[![maroy's 42 stats](https://badge.mediaplus.ma/darkblue/maroy?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+
 Je suis Mathieu Roy, un étudiant à l'école 42 Québec passionné par la programmation !
 
 ## Compétences acquises à l'école 42
