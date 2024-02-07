@@ -6,18 +6,6 @@
 
 Je suis Mathieu Roy, un étudiant à l'école 42 Québec passionné par la programmation !
 
-## Compétences acquises à l'école 42
-
-### Programmation en langage C
-
-### lgorithmie et structures de données
-
-### Programmation système
-
-### Développement web
-
-### Gestion de projets et travail d'équipe
-
 ## Dark Souls Archthrones
 
 Le mod Dark Souls Archthrones est une extension pour le jeu Dark Souls 3 qui apporte de nouvelles fonctionnalités et améliorations à l'expérience de jeu. Ce mod offre aux joueurs la possibilité de découvrir de nouveaux environnements, de rencontrer des personnages supplémentaires, d'obtenir de nouvelles armes et armures, et bien plus encore. J'ai travaillé dur pour créer un contenu de qualité qui s'intègre harmonieusement à l'univers sombre et captivant de Dark Souls.
