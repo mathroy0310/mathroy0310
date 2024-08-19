@@ -1,18 +1,16 @@
-name: GitHub Pages
+name: github pages
 
 on:
   push:
     branches:
-      - master  # Set a branch to deploy
-
+      - master  
 jobs:
   deploy:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Change if you need git info
+          fetch-depth: 0
 
       - name: Setup Zig
         uses: mlugg/setup-zig@v1
@@ -24,6 +22,7 @@ jobs:
           
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./zig-out
